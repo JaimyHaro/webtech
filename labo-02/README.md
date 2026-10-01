@@ -6,12 +6,12 @@ Naam: Jaimy
 
 Welke elementen raakt elke selector? Eén zin per selector.
 
-- a. `header nav ul li a`: 
-- b. `article > p`: 
-- c. `.uren li:nth-child(3)`: 
-- d. `h2 ~ p`: 
+- a. `header nav ul li a`: adopteren, onze bewoners, openingsuren
+- b. `article > p`:Een dier..., Daarna maken..., Op dit..., Je kan...
+- c. `.uren li:nth-child(3)`: woensdag: 14-18u
+- d. `h2 ~ p`: Een dier..., Op dit moment..., Je kan...
 - e. `.rassen li:first-child`: 
-
+herders en herderkruisingen, europese korthaar
 ## 3. Voorspel, dan kijk
 
 Vul de eerste twee kolommen in vóór je de pagina opent. Trede: herkomst, specificiteit, volgorde of overerving (of iets anders, benoem het).
